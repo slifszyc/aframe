@@ -25,7 +25,7 @@ open project](https://github.com/aframevr/), A-Frame has grown to be one of the
 
 A-Frame is based on top of HTML, making it simple to get started. But A-Frame
 is not just a 3D scene graph nor a markup language; the core is a powerful
-entity-component framework that provides an declarative, extensible, and
+entity-component framework that provides a declarative, extensible, and
 composable structure to [three.js].
 
 A-Frame supports most VR headsets such as Vive, Rift, Daydream, GearVR,
